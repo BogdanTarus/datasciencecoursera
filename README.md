@@ -1,2 +1,2 @@
 # datasciencecoursera
-"The Data Scientist’s Toolbox" Project: Assignement 2
+"The Data Scientist’s Toolbox" Project
